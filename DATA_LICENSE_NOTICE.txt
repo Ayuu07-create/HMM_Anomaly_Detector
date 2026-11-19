@@ -1,0 +1,6 @@
+MetroPT-3 Air Compressor dataset
+Source: UCI Machine Learning Repository
+DOI: 10.24432/C5VW3R
+License: CC BY 4.0
+
+The raw dataset is not redistributed in this ZIP. Use scripts/download_data.py to retrieve it from UCI.
